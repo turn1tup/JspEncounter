@@ -1,6 +1,6 @@
 # JSP下的白魔法：JspEncounter
 
-@许纬地 @turn1tup
+@turn1tup
 
 ## 前言
 
