@@ -47,7 +47,7 @@ demo:
 "C:\Program Files\Java\jdk1.8.0_191\bin\java.exe" "-Dfile.encoding=utf-8" -jar JspEncounter.jar -m jsp -c matrix.xlsx -s source.jsp -o result.jsp
 ```
 
-配置文件的配置可参考 `matrix` 章节。
+配置文件的配置可参考 `Jsp下的白魔法` 一文
 
 原始jsp文件要求使用 `<%@page ... >%>`、 `<%! ..%> `、 `<% %>`三种标签，且每种标签可出现多次，但顺序需要固定为这里列出的顺序。
 
